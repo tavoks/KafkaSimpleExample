@@ -1,2 +1,2 @@
 # KafkaSimpleExample
-A simple exemplo of a project .NET using Kafka
+A simple example of a project .NET using Kafka
